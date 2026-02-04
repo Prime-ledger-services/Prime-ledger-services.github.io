@@ -153,7 +153,7 @@ footer {
 .hero-image img,
 .about-image img {
     width: auto;          /* lets the image keep its original width */
-    max-width: 200px;     /* adjust size */
+    max-width: 220px;     /* adjust size */
     max-height: 300px;    /* prevents it from covering whole screen */
     height: auto;
     border-radius: 10px;
